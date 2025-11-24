@@ -1,7 +1,7 @@
 import { useState } from "react";
 import FeatureForm from "./components/FeatureForm";
 import PredictionCard from "./components/PredictionCard";
-import ThresholdSlider from "./components/ThresholdSlider";
+import ThresholdSlider from "./components/TresholdSlider";
 import ErrorChart from "./components/ErrorChart";
 import { predict } from "./api/predict";
 
